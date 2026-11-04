@@ -1,2 +1,2 @@
 # Shanto
-https://github.com/shanto10895/-.git
+https://shanto10895.github.io/Shanto/
